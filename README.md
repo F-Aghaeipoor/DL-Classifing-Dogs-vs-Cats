@@ -1,4 +1,4 @@
-# Deep-Learning-Classifing-Dogs-vs-Cats
+# Classifing Dogs vs Cats: different CNN/Transformer solutions
 In this repository. we go through different CNN/Transformer solutions to Distinguish images of dogs from cats as an educational effort.
 
 Dataset is availble in https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data
